@@ -1,6 +1,6 @@
 --- 
 title: "NYC Jobs"
-author: "Margaret Reed"
+author: "Margaret Reed, Yaxin Hu, Yizhou Zhao"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
