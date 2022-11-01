@@ -1,6 +1,6 @@
 --- 
 title: "NYC Jobs"
-author: "YOUR NAMES HERE"
+author: "Margaret Reed"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
