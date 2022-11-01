@@ -4,3 +4,10 @@
 
 ## Data availability
 
+The primary dataset we have chosen to use is the [NYC Jobs](https://catalog.data.gov/dataset/nyc-jobs) from data.gov. The data-set 
+contains data from jobs listings around NYC. The data is collected from the City 
+of New York's official jobs website [here](https://www1.nyc.gov/jobs/index.page). 
+The data was first published January 8th 2020, and was most recently updated 
+October 25th, 2022. The NYC OpenData project maintains the data. The data is 
+available for download via csv. Thus, we intend to download the csv file and 
+upload it directly into R. 
